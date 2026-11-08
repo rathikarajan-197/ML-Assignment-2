@@ -39,33 +39,62 @@ https://github.com/rathikarajan-197/ML-Assignment-2
 
 **Streamlit Application Link**
 https://ml-assignment-2-hoqzrthexnkwmi4g9yvzkp.streamlit.app/
-Models Used
+
+
+**Models Used**
 Logistic Regression
 Decision Tree Classifier
 K-Nearest Neighbor (KNN)
 **Naive Bayes**
 Support Vector Machine (SVM)
 
-**Model Comparison Table**
-ML Model Name	Accuracy	AUC	Precision	Recall	F1 Score	MCC
-Logistic Regression	0.8146	0.9299	0.7638	0.9238	0.8362	0.6422
-Decision Tree	0.9854	0.9857	1.0000	0.9714	0.9855	0.9712
-KNN	0.6976	0.8335	0.7129	0.6857	0.6990	0.3956
-Naive Bayes	0.8293	0.9043	0.8062	0.8762	0.8402	0.6602
-SVM	0.7171	0.7477	0.6983	0.7905	0.7411	0.4360
+
+**## Model Comparison Results**
+
+Logistic Regression
+Accuracy: 0.8146
+AUC: 0.9299
+Precision: 0.7638
+Recall: 0.9238
+F1 Score: 0.8362
+MCC: 0.6422
+
+Decision Tree
+Accuracy: 0.9854
+AUC: 0.9857
+Precision: 1.0000
+Recall: 0.9714
+F1 Score: 0.9855
+MCC: 0.9712
+
+KNN
+Accuracy: 0.6976
+AUC: 0.8335
+Precision: 0.7129
+Recall: 0.6857
+F1 Score: 0.6990
+MCC: 0.3956
+
+Naive Bayes
+Accuracy: 0.8293
+AUC: 0.9043
+Precision: 0.8062
+Recall: 0.8762
+F1 Score: 0.8402
+MCC: 0.6602
+
+SVM
+Accuracy: 0.7171
+AUC: 0.7477
+Precision: 0.6983
+Recall: 0.7905
+F1 Score: 0.7411
+MCC: 0.4360
 
 
 **Model Observations**
 
-ML Model Name	Observation
-Logistic Regression	Good baseline performance with high recall.
-Decision Tree	Highest accuracy and best overall performance.
-KNN	Lowest performance among all models.
-Naive Bayes	Good balance between speed and accuracy.
-SVM	Moderate performance.
-Overall Winner	Decision Tree Classifier
-
-Logistic Regression
+**Logistic Regression**
 
 Good baseline performance with high recall.
 
