@@ -38,7 +38,7 @@ if uploaded_file:
     y = df["target"]
 
     model = joblib.load(
-        f"model/{model_choice}.pkl"
+        f"{model_choice}.pkl"
     )
 
     y_pred = model.predict(X)
